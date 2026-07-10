@@ -1,4 +1,4 @@
-🚀 Flask Web App Deployment with Docker
+🚀 Containerized Flask Web Application
 A robust DevOps demonstration featuring a three-tier architecture deployed on Amazon Web Services (AWS) using Docker Compose and Nginx.
 
 🖥️ Live Dashboard Preview
